@@ -1,0 +1,5 @@
+com/effective/mobile_pr2/dto/ReportTestWithExcludeCountry.class
+com/effective/mobile_pr2/dto/ReportTest.class
+com/effective/mobile_pr2/AppTest.class
+com/effective/mobile_pr2/utils/CsvUtilsTest.class
+com/effective/mobile_pr2/dto/ReportTestWithAllExcludeColumn.class
